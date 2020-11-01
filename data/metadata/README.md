@@ -1,0 +1,1 @@
+Le dossier `metadata/` sert à mettre tous vos fichiers explicatifs en lien avec vos données.
