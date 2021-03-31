@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r packages, include=false}
+```{r packages, include=FALSE}
 source("R/functions.R")
 ```
 
@@ -29,7 +29,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-png(file="results/figures/pressure.png")
+png(file="figures/pressure.png")
 plot(pressure)
 dev.off()
 ```
